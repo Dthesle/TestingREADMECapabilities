@@ -1,7 +1,7 @@
 # Testing the README Capabilities
 ## what
 ### test
-- [] Tested?
+- [x] Tested?
 > hi
 - hi
 1. yeah
