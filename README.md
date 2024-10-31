@@ -27,7 +27,6 @@
 
 - [x] Testing?
 - [ ] Fully Tested?
-> hi
 - hi
 1. yeah
 ```
@@ -41,20 +40,23 @@ Testing | [test](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 What? (`there's 13 bombs under you`)
 
 Do Something
-   ```sh
+   ```js
    wtf am i doing
    ```
 With Your
-   ```sh
+   ```ruby
    npm install virus trustconfig
+      pnpm install core1.zip
    ```
 Life Right Inside `config.js`
-   ```js
-   const API_KEY = 'IHATEMYJOBANDTAXES';
+   ```ruby
+if [bomb] found in <inventory>
+  then use (item)
+    if fails, then <try-again>
    ```
 And Also Inside You're Potential
-   ```sh
-   get the remote for me will ya?
+   ```js
+   get the remote for me will ya? In 1984, Freddy Fazbears' Pizzeria Entertainment Company was created, 3 years later and the bite of '87 has happened, killing an innocent child.
    ```
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -81,3 +83,20 @@ And Also Inside You're Potential
     <li><a href="#acknowledgments">Alright?</a></li>
   </ol>
 </details>
+
+> [!CAUTION]
+> idk why this is a caution
+
+> [!WARNING]
+> RAHHHHH
+
+> [!TIP]
+> hi
+
+> [!NOTE]
+> hello
+
+> [!IMPORTANT]
+> yo my name's walter, walter white.
+
+> what?
